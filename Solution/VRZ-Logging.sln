@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRZ.Logging", "VRZ.Logging\VRZ.Logging.csproj", "{0999EABE-8475-4444-817B-0CB04352A6C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRZ.Logging.Tests.Unit", "VRZ.Logging.Tests.Unit\VRZ.Logging.Tests.Unit.csproj", "{DFEE4DE6-BEBD-4C24-89E4-1CDC1E6A4905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0999EABE-8475-4444-817B-0CB04352A6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0999EABE-8475-4444-817B-0CB04352A6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0999EABE-8475-4444-817B-0CB04352A6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0999EABE-8475-4444-817B-0CB04352A6C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFEE4DE6-BEBD-4C24-89E4-1CDC1E6A4905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEE4DE6-BEBD-4C24-89E4-1CDC1E6A4905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEE4DE6-BEBD-4C24-89E4-1CDC1E6A4905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEE4DE6-BEBD-4C24-89E4-1CDC1E6A4905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
